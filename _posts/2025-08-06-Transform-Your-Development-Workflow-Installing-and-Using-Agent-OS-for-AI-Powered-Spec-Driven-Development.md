@@ -1,6 +1,5 @@
 # Transform Your Development Workflow: Installing and Using Agent OS for AI-Powered Spec-Driven Development
 
-```markdown
 ## Install and Use Agent OS for AI-Powered Spec-Driven Development  
 Transform your AI coding agent into a reliable teammate by installing Agent OS and adopting a spec-first workflow.
 
@@ -138,6 +137,5 @@ Check the generated files under `agentos/product/`:
 Your AI agent now works with your architecture, patterns, and development workflow—like a trained teammate.
 
 ---
-```
 ## References:
  - [The Missing SYSTEM Your Coding Agents Need](https://www.youtube.com/watch?v=CTMyzeKKb0o)
